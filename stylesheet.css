@@ -1,0 +1,68 @@
+h2
+{
+font-family:Freestyle Script;
+font-weight:bold;
+font-size:78px;
+font-color:rgb(68,37,32);
+margin-left:40px;
+}
+
+#logo
+{
+height:23%;
+width:15%;
+border-radius:5px;
+float:right;
+margin-top:-140px;
+}
+#backgrd
+{
+background-color:rgb(202,159,134);
+}
+.nav
+{
+border: 1px solid rgb(68,37,32);
+background-color:rgb(68,37,32);
+height:10%;
+width:80%;
+margin-top:-60px;
+margin-left:30px;
+border-radius:20px;
+}
+ul
+{
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+}
+li 
+{
+  float:left;
+}
+li,a
+{
+	color: white;
+  padding: 20px 20px;
+}
+a:hover
+{
+	color:rgb(202,159,134);
+	text-decoration:none;
+}
+.footer
+{
+	margin-top:15px;
+	margin-bottom:3px;
+	margin-left:-8px;
+	margin-right:-8px;
+	height:47%;
+	background-color:rgb(189,119,64);
+}
+.footer_class
+{
+float:left;
+margin-left:220px;
+margin-top:40px;
+font-family:Arail;
+font-size:20px;
+}
